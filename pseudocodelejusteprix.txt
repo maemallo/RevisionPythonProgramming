@@ -1,0 +1,8 @@
+			Pseudo-code : Le Juste Prix
+
+1. Je donne 1000 points
+2. Je genere un prix entier aleatoire.
+3. Je demande a l'utilisateur de me donner le prix
+4. Si son prix est superieur au mien, je l'informe et je lui retire 100 points
+5. Si son prix est inferieur au mien, je l'informe et je lui retire 100 points
+6. Si son prix est egal au mien, je l'informe qu'il a gagné  

@@ -1,0 +1,18 @@
+			Pseudo-code:Pierre,Papier,Ciseaux
+
+1. Je demande a l'utilisateur d'entrer une valeur (pierre,papier ou ciseaux)
+2. Je genere une valeur (pierre,papier ou ciseaux)
+3. Je compare les valeurs
+4. Si elles sont identique, je relance le jeu
+5. Si elles sont differentes :
+	- Si le joueur entre "pierre" et le systeme "ciseaux", le joueur a un point de plus
+	- Si le joueur entre "papier" et le systeme "pierre", le  joueur a un point de plus 
+	- Si le joueur entre "ciseaux" et le systeme "papier", le joueur a un point de plus
+	- Sinon,le system a un point de plus
+6. Je demande a l'utilisateur si il veut continuer a jouer
+7. Si oui, je relance le jeu
+7. Sinon, on lui affiche le score final
+	
+
+
+
